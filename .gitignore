@@ -29,8 +29,6 @@ build/
 *.ipr
 
 # Eclipse
-.project
-.classpath
 .settings/
 
 # VS Code
