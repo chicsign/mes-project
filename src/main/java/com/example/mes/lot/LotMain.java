@@ -85,6 +85,7 @@ public class LotMain {
         String lotStatus = prompt("오호호");
         String lotCode = prompt("아하하");
         String productName = prompt("충돌나라");
+        //이것은 주석이다.
 
         controller.updateLot(lotId, lotStatus, lotCode, productName);
     }
