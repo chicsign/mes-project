@@ -81,10 +81,10 @@ public class LotMain {
     }
 
     private static void MainUpdate() {
-        String lotId = prompt("수정할 LOT_ID");
-        String lotStatus = prompt("변경할 LOT_STATUS");
-        String lotCode = prompt("변경할 LOT_CODE");
-        String productName = prompt("변경할 PRODUCT_NAME");
+        String lotId = prompt("ㅋㅋㅋ");
+        String lotStatus = prompt("오호호");
+        String lotCode = prompt("아하하");
+        String productName = prompt("충돌나라");
 
         controller.updateLot(lotId, lotStatus, lotCode, productName);
     }
