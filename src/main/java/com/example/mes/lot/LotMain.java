@@ -7,6 +7,8 @@ public class LotMain {
     private static final Scanner sc = new Scanner(System.in);
     private static final LotController controller = new LotController();
 
+    
+    // 주석을 추가해보았습니당 ㅋ.ㅋ //
     public static void main(String[] args) {
         runMenu();
     }
