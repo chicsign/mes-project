@@ -53,3 +53,5 @@ Thumbs.db
 
 # Windows reserved device name 방지
 NUL
+/.metadata/
+/bin/

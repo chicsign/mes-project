@@ -1,4 +1,4 @@
-package com.example.mes.util;
+package main.java.com.example.mes.util;
 
 import java.sql.Connection;
 import java.sql.DriverManager;

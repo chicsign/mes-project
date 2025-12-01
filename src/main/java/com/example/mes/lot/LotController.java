@@ -1,4 +1,4 @@
-package com.example.mes.lot;
+package main.java.com.example.mes.lot;
 
 import java.util.List;
 
